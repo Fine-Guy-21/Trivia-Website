@@ -1,3 +1,17 @@
+// var xhr = new XMLHttpRequest();
+// xhr.open('GET', 'https://opentdb.com/api.php?amount=10&category=9&type=multiple', true);
+// xhr.onload = function() {
+//   if (xhr.status === 200) {
+//     var data = JSON.parse(xhr.responseText);
+//     // console.log(data);
+//     displayQuestions(data.results);
+//   }
+// };
+// xhr.onerror = function() {
+//   console.error('Error:', xhr.statusText);
+// };
+// xhr.send();
+
 data = [
     {
         "type": "multiple",
