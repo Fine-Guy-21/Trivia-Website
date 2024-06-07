@@ -136,7 +136,7 @@ data = [
   ]
   
   const contentDiv = document.querySelector('.content');
-  displayQuestions(data)
+//   displayQuestions(data)
   
   var index = 1
   function displayQuestions(questions) {
